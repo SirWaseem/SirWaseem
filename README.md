@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello, my name is Sirmaed.
+<a href="https://www.linkedin.com/in/sirmaed-waseem-34824124a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <BR>
+## About me:
+I am a technology enthusiast with a passion for learning, now aiming my career towards cyber security.<BR>
+## Objective:
+My interest in computers and technology has lead me towards cybersecurity, and I am now eager to enter the field, with a particular interest in penetration testing and security operations.<BR>
+## Projects and Skills:
 
 <!--
 **SirWaseem/SirWaseem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
